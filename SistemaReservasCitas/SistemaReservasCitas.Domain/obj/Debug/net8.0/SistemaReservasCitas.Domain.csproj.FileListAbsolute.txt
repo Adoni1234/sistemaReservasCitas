@@ -1,0 +1,11 @@
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\bin\Debug\net8.0\SistemaReservasCitas.Domain.deps.json
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\bin\Debug\net8.0\SistemaReservasCitas.Domain.dll
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\bin\Debug\net8.0\SistemaReservasCitas.Domain.pdb
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.AssemblyInfoInputs.cache
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.AssemblyInfo.cs
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.csproj.CoreCompileInputs.cache
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.dll
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\refint\SistemaReservasCitas.Domain.dll
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\SistemaReservasCitas.Domain.pdb
+E:\SistemaReservasCitas\SistemaReservasCitas.Domain\obj\Debug\net8.0\ref\SistemaReservasCitas.Domain.dll
